@@ -1,0 +1,5 @@
+/home/ubuntu/EMPLOYEE-MANAGEMENT-CI-CD/src/main/java/com/example/employeemanagement/EmployeeManagementApplication.java
+/home/ubuntu/EMPLOYEE-MANAGEMENT-CI-CD/src/main/java/com/example/employeemanagement/controller/EmployeeController.java
+/home/ubuntu/EMPLOYEE-MANAGEMENT-CI-CD/src/main/java/com/example/employeemanagement/entity/Employee.java
+/home/ubuntu/EMPLOYEE-MANAGEMENT-CI-CD/src/main/java/com/example/employeemanagement/repository/EmployeeRepository.java
+/home/ubuntu/EMPLOYEE-MANAGEMENT-CI-CD/src/main/java/com/example/employeemanagement/service/EmployeeService.java
